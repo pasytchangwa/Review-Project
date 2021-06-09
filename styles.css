@@ -60,11 +60,11 @@ ul li {
   text-align: center;
 }
 
+.tribute-info p {
+  font-size: 22px;
+}
+
 #tribute-info p {
   margin-top: 10px;
   margin-bottom: auto;
-}
-
-.tribute-info p {
-  font-size: 22px;
 }
